@@ -146,6 +146,7 @@
     <Content Include="favicon.ico" />
     <Content Include="Global.asax" />
     <Content Include="Content\Site.css" />
+    <Content Include="IT Training Center\appITTrainingCenter.js" />
     <Content Include="IT Training Center\index.html" />
     <Content Include="IT Training Center\styleITTrainingCenter.css" />
     <Content Include="Scripts\bootstrap.bundle.js" />
